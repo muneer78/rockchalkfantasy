@@ -1,36 +1,52 @@
 
-The Commissioner: Muneer Ahmad 2017-present. If the Commissioner is found to be incapable of running the league at any time or no longer wishes to run the league, he may be replaced with a new Commissioner elected by majority vote of other current league members. The replacement will have all the same responsibilities of the previous Commissioner.
+1. League Administration
 
-Assistant Commissioner: Scott James shall be the co-commissioner.
+1.A. The Commissioner: Muneer Ahmad 2017-present. 
 
-Removal of League Owners: If, at any time, a league majority consensus deems that an owner(s) is no longer fit to be a part of the League, whether for collusion, neglect of his team and the league, or overall dickishness, the Manager shall be removed immediately from the league or given a suspension determined by the league majority.
+1.B. If the Commissioner is found to be incapable of running the league at any time or no longer wishes to run the league, he may be replaced with a new Commissioner elected by majority vote of other current league members. The replacement will have all the same responsibilities of the previous Commissioner.
 
-Draft order: The draft order will be the reverse order of standings from the previous season. We shall have a serpentine draft.
+1.C. Assistant Commissioner: Scott James shall be the co-commissioner.
 
-Adding and dropping players: Players shall only be added and dropped if they have already been added to the Yahoo player pool.
-Hamels Amendment: An owner may not reserve a player verbally or in writing before that player has been added to the Yahoo player pool.
+1.D. Removal of League Owners: If, at any time, a league majority consensus deems that an owner(s) is no longer fit to be a part of the League, whether for collusion, neglect of his team and the league, or overall dickishness, the Manager shall be removed immediately from the league or given a suspension determined by the league majority.
 
-Draft time and location: We shall draft at Conroy’s Pub on a date chosen by league consensus at noon.
+1.E. Special Powers: The Commissioner shall have the power to act unilaterally in order to protect the integrity of the league. This may constitute, but is not limited to: locking a team’s roster, setting a team’s roster if the owner has abandoned the team, reversing moves when a team drops all of its players, and replacing an owner midseason.
 
-Roster Positions: We shall have the following roster positions: C, 1B, 2B, 3B, SS, OF, OF, OF, Util, SP, SP, RP, RP, P, P, P, BN, BN, BN, BN, DL.
+1.F. Payments
+1.F.A. The entry fee is $20 in U.S. currency. All payments shall be remitted to Muneer Ahmad, 420 S. Indian Wells Dr., Olathe, KS 66061. 1.F.2. Failure to pay by the end of the season means the offending team will be automatically assigned to the last draft position the following year. 
+1.F.2.A. If multiple players fail to pay timely, then the person who pays first will automatically be assigned the last draft spot, the second latest player will be assigned the second to last spot, and so on.
 
-Scoring Categories:
-Hitting
-Runs (R), Home Runs (HR), Runs Batted In (RBI), Stolen Bases (SB), Batting Average (AVG)
+2. Player Selection and Transfers
 
-Pitching
-Saves (SV), Strikeouts (K), Earned Run Average (ERA), (Walks + Hits)/ Innings Pitched (WHIP), Quality Starts (QS)
+2.A. Draft order: 
+2.A.1. The draft order will be the reverse order of standings from the previous season. 
+2.A.2. We shall have a serpentine draft. 
+2.A.3. Draft time and location: We shall draft at Conroy’s Pub at noon on a date chosen by league consensus.
 
-Keepers: Players may be designated as keepers in two consecutive seasons by an owner.
-Stanton Corollary: Ignorance of the keeper status of one’s players shall not be a reason to allow an exception to be made to the rule.
+2.B. Adding and dropping players
+2.B.1. Players shall only be added and dropped if they have already been added to the Yahoo player pool.
+2.B.1.A. Hamels Amendment: An owner may not reserve a player verbally or in writing before that player has been added to the Yahoo player pool.
 
-Trading: All trades will be reviewed by the Commissioner and may be approved at the Commissioner’s discretion. The Commissioner may nullify a trade if there is no rational reason to make the trade or if there is obvious collusion. This approval shall not be withheld unreasonably, but it should be noted that the Commissioner may be delayed in approving a trade due to life events or work obligations.
+2.C. Keepers
+2.C.1. Owners must choose 4 players to designate as keepers prior to each season.
+2.C.1.A. Keepers shall be designated by March 1 of each calendar year.
+2.C.1.A.1. If the keepers are submitted by an owner prior to the deadline set in Section 2.C.1.A., then that owner may freely change keepers prior to the draft.
+2.C.1.A.2. If the keepers are not submitted by an owner prior to the deadline set in Section 2.C.1.A., then that owner may change keepers prior to the draft only if there is some injury concern with that player.
+2.C.1.B. In the case of injury prior to the first game of the season on the MLB schedule, an owner may change his keeper to another player freely.
+2.C. Players may only be designated as keepers in two consecutive seasons by an owner.
+2.C.1. Stanton Corollary: Ignorance of the keeper status of one’s players shall not be a reason to allow an exception to be made to the rule.
 
-Waiver Wire: The waiver period shall run from Monday to Thursday of each week. Waiver priority shall be reset each week in reverse order of the standings.
+2.D. Trading
+2.D.1. All trades will be reviewed by the Commissioner and may be approved at the Commissioner’s discretion. 
+2.D.2. The Commissioner may nullify a trade if there is no rational reason to make the trade or if there is obvious collusion. 
+2.D.3. This approval shall not be withheld unreasonably, but it should be noted that the Commissioner may be delayed in approving a trade due to life events or work obligations.
+2.D.4. The commissioner's veto may be overridden if at least 70% of the owners in the league approve of the trade.
 
-Prizes: The first place winner shall receive 60% of the total pool, the second place winner shall receive 30% of the total pool, and the third place winner shall receive 10% of the total pool.
+2.E. Waiver Wire: The waiver period shall run from Monday to Thursday of each week. Waiver priority shall be reset each week in reverse order of the standings.
 
-Special Powers: The Commissioner shall have the power to act unilaterally in order to protect the integrity of the league. This may constitute, but is not limited to: locking a team’s roster, setting a team’s roster if the owner has abandoned the team, reversing moves when a team drops all of its players, and replacing an owner midseason.
+3. League Settings
+3.A. Roster Positions: We shall have the following roster positions: C, 1B, 2B, 3B, SS, OF, OF, OF, Util, SP, SP, RP, RP, P, P, P, BN, BN, BN, BN, DL.
+3.B. Scoring Categories:
+3.B.1. Hitting: Runs (R), Home Runs (HR), Runs Batted In (RBI), Stolen Bases (SB), Batting Average (AVG)
+3.B.2. Pitching: Saves (SV), Strikeouts (K), Earned Run Average (ERA), (Walks + Hits)/ Innings Pitched (WHIP), Quality Starts (QS)
 
-Payments: The entry fee is $20 in U.S. currency. All payments shall be remitted to Muneer Ahmad, 420 S. Indian Wells Dr., Olathe, KS 66061. Failure to pay by the end of the season means the offending team will be automatically assigned to the last draft position the following year. If multiple players fail to pay timely, then the person who pays first will automatically be assigned the last draft spot, the second latest player will be assigned the second to last spot, and so on.
-
+4. Prizes: The first place winner shall receive 60% of the total pool, the second place winner shall receive 30% of the total pool, and the third place winner shall receive 10% of the total pool.
