@@ -1,14 +1,36 @@
-The Commissioner: Muneer Ahmad 2011-present. If the Commissioner is found to be incapable of running the league at any time or no longer wishes to run the league, he may be replaced with a new Commissioner elected by majority vote of other current league members. The replacement will have all the same responsibilities of the previous Commissioner.
+1. League Administration
 
-Removal of League Owners: If, at any time, a league majority consensus deems that an owner(s) is no longer fit to be a part of the League, whether by collusion, neglect, of his team and league, or overall dickishness, the Manager is removed immediately from the league and given a suspension determined by the league majority.
+1.A. The Commissioner: Muneer Ahmad 2011-present. 
+1.A.1. If the Commissioner is found to be incapable of running the league at any time or no longer wishes to run the league, he may be replaced with a new Commissioner elected by majority vote of other current league members. 
+1.A.2.The replacement will have all the same responsibilities of the previous Commissioner.
 
-Draft order: The draft order will be determined by a randomizing program and revealed to players at the draft. We shall have a serpentine draft.
+1.B. Removal of League Owners: If, at any time, a league majority consensus deems that an owner(s) is no longer fit to be a part of the League, whether by collusion, neglect, of his team and league, or overall dickishness, the Manager is removed immediately from the league and given a suspension determined by the league majority.
 
-Draft time and location: We shall draft at Conroy's Pub on a date chosen by league consensus at noon.
+1.C. Special Powers: The Commissioner shall have the power to act unilaterally in order to protect the integrity of the league. This may constitute, but is not limited to: locking a team's roster, setting a team's roster if the owner has abandoned the team, reversing moves when a team drops all of its players, and replacing an owner midseason.
 
-Roster Positions: We shall have the following roster positions: QB, RB, RB, WR, WR, WR, TE, K, DEF, BN, BN, BN.
+1.D. Payments
+1.D.1. The entry fee is $25 in U.S. currency. All payments shall be remitted to Muneer Ahmad, 420 S. Indian Wells Dr., Olathe, KS 66061. 1.D.2. Failure to pay by the end of the season means the offending team will be automatically assigned to the last draft position the following year. 
+1.D.2.A. If multiple players fail to pay timely, then the person who pays first will automatically be assigned the last draft spot, the second latest player will be assigned the second to last spot, and so on.
 
-Scoring Categories and Points:
+2. Player Selection and Transfers:
+
+2.A. Draft order: The draft order will be determined by a randomizing program and revealed to players at the draft. 
+2.A.1. We shall have a serpentine draft.
+2.A.3. Draft time and location: We shall draft at Conroy's Pub at noon on a date chosen by league consensus.
+
+2.B. Trading
+2.B.1 All trades will be reviewed by the Commissioner and may be approved at the Commissioner's discretion. 
+2.B.2. The Commissioner may nullify a trade if there is no rational reason to make the trade or if there is obvious collusion. 
+2.B.3. This approval shall not be withheld unreasonably, but it should be noted that the Commissioner may be delayed in approving a trade due to life events or work obligations.
+2.B.4. The commissioner's veto may be overridden if at least 70% of the owners in the league approve of the trade.
+
+2.C. Waiver Wire: The waiver period shall run from Monday to Thursday of each week. Waiver priority shall be reset each week in reverse order of the standings.
+
+3. League Settings
+
+3.A. Roster Positions: We shall have the following roster positions: QB, RB, RB, WR, WR, WR, TE, K, DEF, BN, BN, BN.
+
+3B. Scoring Categories and Points:
 Offense
 Passing Yards 25 yards per point 
 Passing Touchdowns 4 
@@ -49,14 +71,8 @@ Points Allowed 21-27 points 0
 Points Allowed 28-34 points -1 
 Points Allowed 35+ points -4
 
-Trading: All trades will be reviewed by the Commissioner and may be approved at the Commissioner's discretion. The Commissioner may nullify a trade if there is no rational reason to make the trade or if there is obvious collusion. This approval shall not be withheld unreasonably, but it should be noted that the Commissioner may be delayed in approving a trade due to life events or work obligations.
+3.C.: Playoffs: The playoffs shall occur in Weeks 15, 16 and 17 of the NFL regular season. There shall be 6 teams competing in the playoffs.
 
-Waiver Wire: The waiver period shall run from Monday to Thursday of each week. Waiver priority shall be reset each week in reverse order of the standings.
-
-Playoffs: The playoffs shall occur in Weeks 15, 16 and 17 of the NFL regular season. There shall be 6 teams competing in the playoffs.
-
-Prizes: The first place winner shall receive 60% of the total pool, the second place winner shall receive 30% of the total pool, and the third place winner shall receive 10% of the total pool.
-
-Special Powers: The Commissioner shall have the power to act unilaterally in order to protect the integrity of the league. This may constitute, but is not limited to: locking a team's roster, setting a team's roster if the owner has abandoned the team, reversing moves when a team drops all of its players, and replacing an owner midseason.
+4. Prizes: The first place winner shall receive 60% of the total pool, the second place winner shall receive 30% of the total pool, and the third place winner shall receive 10% of the total pool.
 
 Payments: The entry fee is $25 in U.S. currency. All payments shall be remitted to Muneer Ahmad, 420 S. Indian Wells Dr., Olathe, KS 66061. Failure to pay by the end of the season means the offending team will be automatically assigned to the last draft position the following year. If multiple players fail to pay timely, then the person who pays first will automatically be assigned the last draft spot, the second latest player will be assigned the second to last spot, and so on.
