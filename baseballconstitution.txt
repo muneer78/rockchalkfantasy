@@ -12,14 +12,14 @@
 1.E. Special Powers: The Commissioner shall have the power to act unilaterally in order to protect the integrity of the league. This may constitute, but is not limited to: locking a team’s roster, setting a team’s roster if the owner has abandoned the team, reversing moves when a team drops all of its players, and replacing an owner midseason.
 
 1.F. Payments
-1.F.A. The entry fee is $20 in U.S. currency. All payments shall be remitted to Muneer Ahmad, 420 S. Indian Wells Dr., Olathe, KS 66061. 1.F.2. Failure to pay by the end of the season means the offending team will be automatically assigned to the last draft position the following year. 
+1.F.A. The entry fee is $40 in U.S. currency. All payments shall be remitted to Muneer Ahmad, 420 S. Indian Wells Dr., Olathe, KS 66061. 1.F.2. Failure to pay by the end of the season means the offending team will be automatically assigned to the last draft position the following year. 
 1.F.2.A. If multiple players fail to pay timely, then the person who pays first will automatically be assigned the last draft spot, the second latest player will be assigned the second to last spot, and so on.
 
 2. Player Selection and Transfers
 
 2.A. Draft order: 
 2.A.1. The draft order will be the reverse order of standings from the previous season. 
-2.A.2. We shall have a serpentine draft. 
+2.A.2. We shall have a non-serpentine draft. The draft order shall repeat exactly each round. 
 2.A.3. Draft time and location: We shall draft at Conroy’s Pub at noon on a date chosen by league consensus.
 
 2.B. Adding and dropping players
@@ -46,7 +46,7 @@
 3. League Settings
 3.A. Roster Positions: We shall have the following roster positions: C, 1B, 2B, 3B, SS, OF, OF, OF, Util, SP, SP, RP, RP, P, P, P, BN, BN, BN, BN, DL.
 3.B. Scoring Categories:
-3.B.1. Hitting: Runs (R), Home Runs (HR), Runs Batted In (RBI), Stolen Bases (SB), Batting Average (AVG)
+3.B.1. Hitting: Runs (R), Home Runs (HR), Runs Batted In (RBI), Stolen Bases (SB), On Base + Slugging Percentage (OPS)
 3.B.2. Pitching: Saves (SV), Strikeouts (K), Earned Run Average (ERA), (Walks + Hits)/ Innings Pitched (WHIP), Quality Starts (QS)
 
 4. Prizes: The first place winner shall receive 60% of the total pool, the second place winner shall receive 30% of the total pool, and the third place winner shall receive 10% of the total pool.
