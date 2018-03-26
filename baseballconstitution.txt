@@ -22,6 +22,17 @@
 2.A.1. The draft order will be the reverse order of standings from the previous season.
 2.A.2. We shall have a fixed order draft. This means that the draft will be in reverse order of standings in every round.
 2.A.3. Draft time and location: We shall draft at Conroy’s Pub at noon on a date chosen by league consensus.
+2.A.4. The draft order for Round 1 is as follows: 
+4th place
+5th place
+6th place
+7th place
+8th place
+9th place
+10th place
+3rd place
+2nd place
+1st place
 
 2.B. Adding and dropping players
 2.B.1. Players shall only be added and dropped if they have already been added to the Yahoo player pool.
@@ -42,6 +53,7 @@
 2.D.3. This approval shall not be withheld unreasonably, but it should be noted that the Commissioner may be delayed in approving a trade due to life events or work obligations.
 2.D.4. The commissioner's veto may be overridden if at least 70% of the owners in the league approve of the trade.
 2.D.5. Draft pick trades shall only involve picks from Round 5 on so that keepers may be assigned to Rounds 1-4.
+
 2.E. Waiver Wire: The waiver period shall run from Monday to Thursday of each week. Waiver priority shall be reset each week in reverse order of the standings.
 
 3. League Settings
