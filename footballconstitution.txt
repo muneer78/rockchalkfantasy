@@ -4,12 +4,12 @@
 1.A.1. If the Commissioner is found to be incapable of running the league at any time or no longer wishes to run the league, he may be replaced with a new Commissioner elected by majority vote of other current league members.
 1.A.2.The replacement will have all the same responsibilities of the previous Commissioner.
 
-1.B. Removal of League Owners: If, at any time, a league majority consensus deems that an owner(s) is no longer fit to be a part of the League, whether by collusion, neglect, of his team and league, or overall dickishness, the Manager is removed immediately from the league and given a suspension determined by the league majority.
+1.B. Removal of League Owners: If, at any time, a league majority consensus deems that an owner(s) is no longer fit to be a part of the League, whether by collusion, neglect, of his team and league, or overall unpleasantness, the Manager is removed immediately from the league and given a suspension determined by the league majority.
 
 1.C. Special Powers: The Commissioner shall have the power to act unilaterally in order to protect the integrity of the league. This may constitute, but is not limited to: locking a team's roster, setting a team's roster if the owner has abandoned the team, reversing moves when a team drops all of its players, and replacing an owner midseason.
 
 1.D. Payments
-1.D.1. The entry fee is $25 in U.S. currency. All payments shall be remitted to Muneer Ahmad, 420 S. Indian Wells Dr., Olathe, KS 66061. 1.D.2. Failure to pay by the end of the season means the offending team will be automatically assigned to the last draft position the following year.
+1.D.1. The entry fee is $40 in U.S. currency. All payments shall be remitted to Muneer Ahmad, 420 S. Indian Wells Dr., Olathe, KS 66061. 1.D.2. Failure to pay by the end of the season means the offending team will be automatically assigned to the last draft position the following year.
 1.D.2.A. If multiple players fail to pay timely, then the person who pays first will automatically be assigned the last draft spot, the second latest player will be assigned the second to last spot, and so on.
 
 2. Player Selection and Transfers:
@@ -72,8 +72,11 @@ Points Allowed 21-27 points 0
 Points Allowed 28-34 points -1
 Points Allowed 35+ points -4
 
-3.C.: Playoffs: The playoffs shall occur in Weeks 15, 16 and 17 of the NFL regular season. There shall be 6 teams competing in the playoffs.
+3.C.: Playoffs: The playoffs shall occur in Weeks 14, 15 and 16 of the NFL regular season. There shall be 6 teams competing in the playoffs.
 
+3.D. Voting on league rules changes
+3.D.1. All league changes shall be instituted after a simple majority (51% or greater) votes affirmatively for the measure.
+3.D.2. If an owner does not make his or her vote known prior to the voting event or affirmatively convey their vote by proxy to another league member,  the Commissioner will cast a vote on that owner's behalf.
 4. Prizes: The first place winner shall receive 60% of the total pool, the second place winner shall receive 30% of the total pool, and the third place winner shall receive 10% of the total pool.
 
-Payments: The entry fee is $40 in U.S. currency. All payments shall be remitted to Muneer Ahmad, 420 S. Indian Wells Dr., Olathe, KS 66061. Failure to pay by the end of the season means the offending team will be automatically assigned to the last draft position the following year. If multiple players fail to pay timely, then the person who pays first will automatically be assigned the last draft spot, the second latest player will be assigned the second to last spot, and so on.
+Payments: The entry fee is $40 in U.S. currency. All payments shall be remitted to Muneer Ahmad, 420 S. Indian Wells Dr., Olathe, KS 66061. Failure to pay by the end of the season means the offending team will be automatically assigned to the last draft position the following year. If multiple players fail to pay timely, then the person who pays first will automatically be assigned the last draft spot, the second latest player will be assigned the second to last spot, and so on
