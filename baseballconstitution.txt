@@ -22,7 +22,7 @@
 2.A.1. The draft order will be the reverse order of standings from the previous season.
 2.A.2. We shall have a fixed order draft. This means that the draft will be in reverse order of standings in every round.
 2.A.3. Draft time and location: We shall draft at Conroy’s Pub at noon on a date chosen by league consensus.
-2.A.4. The draft order for Round 1 is as follows: 
+2.A.4. The draft order for Round 1 is as follows:
 4th place
 5th place
 6th place
@@ -52,7 +52,7 @@
 2.D.2. The Commissioner may nullify a trade if there is no rational reason to make the trade or if there is obvious collusion.
 2.D.3. This approval shall not be withheld unreasonably, but it should be noted that the Commissioner may be delayed in approving a trade due to life events or work obligations.
 2.D.4. The commissioner's veto may be overridden if at least 70% of the owners in the league approve of the trade.
-2.D.5. Draft pick trades shall only involve picks from Round 5 on so that keepers may be assigned to Rounds 1-4.
+2.D.5. Draft pick trades shall only involve picks earlier than Round 17 on so that keepers may be assigned to Rounds 17-20.
 
 2.E. Waiver Wire: The waiver period shall run from Monday to Thursday of each week. Waiver priority shall be reset each week in reverse order of the standings.
 
@@ -61,5 +61,9 @@
 3.B. Scoring Categories:
 3.B.1. Hitting: Runs (R), Home Runs (HR), Runs Batted In (RBI), Stolen Bases (SB), On Base Plus Slugging (OPS)
 3.B.2. Pitching: Saves (SV), Strikeouts (K), Earned Run Average (ERA), (Walks + Hits)/ Innings Pitched (WHIP), Quality Starts (QS)
+
+3.C. Voting on league rules changes
+3.C.1. All league changes shall be instituted after a simple majority (51% or greater) votes affirmatively for the measure.
+3.C.2. If an owner does not make his or her vote known prior to the voting event or affirmatively convey their vote by proxy to another league member, the Commissioner will cast a vote on that owner's behalf.
 
 4. Prizes: The first place winner shall receive 60% of the total pool, the second place winner shall receive 30% of the total pool, and the third place winner shall receive 10% of the total pool.
