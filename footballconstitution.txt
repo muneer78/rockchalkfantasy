@@ -37,7 +37,7 @@ Passing Touchdowns 4
 Interceptions -2 -1
 Rushing Yards 10 yards per point
 Rushing Touchdowns 6
-Receptions 0.5
+Receptions 0.5 per reception
 Reception Yards 10 yards per point
 Reception Touchdowns 6
 Return Touchdowns 6
