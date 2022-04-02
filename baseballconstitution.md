@@ -24,7 +24,7 @@
   - C. Keepers
     - i. Owners must choose 4 players to designate as keepers prior to each season.
       - a . Keepers shall be designated by March 1 of each calendar year.
-         - 1. If the keepers are submitted by an owner prior to the deadline set in Section 2.C.i.a., then that owner may freely change keepers prior to the draft.
+        - 1. If the keepers are submitted by an owner prior to the deadline set in Section 2.C.i.a., then that owner may freely change keepers prior to the draft.
         - 2. If the keepers are not submitted by an owner prior to the deadline set in Section 2.C.i.a., then that owner may change keepers prior to the draft only if there is some injury concern with that player.
       - b. In the case of injury prior to the first game of the season on the MLB schedule, an owner may change his keeper to another player freely.
       - c. Players may only be designated as keepers in two consecutive seasons by an individual owner. The commissioner has the power to suspend the keeper time limit if needed.
